@@ -1,0 +1,42 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Nicolas/Desktop/Semestre Atual/Sistemas Operacionais II/Trabalho 02/Trabalho_02/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Nicolas/Desktop/Semestre Atual/Sistemas Operacionais II/Trabalho 02/Trabalho_02/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Trabalho_02 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Trabalho_02 1.0-SNAPSHOT API'
+Trabalho02
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 02\Trabalho_02\src\main\java = 1682420809544
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 02\Trabalho_02\target\site\apidocs\allclasses-index.html = 1682614885310
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 02\Trabalho_02\target\site\apidocs\allpackages-index.html = 1682614885321
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 02\Trabalho_02\target\site\apidocs\element-list = 1682614884882
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 02\Trabalho_02\target\site\apidocs\help-doc.html = 1682614885404
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 02\Trabalho_02\target\site\apidocs\index-all.html = 1682614885390
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 02\Trabalho_02\target\site\apidocs\index.html = 1682614885395
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 02\Trabalho_02\target\site\apidocs\jquery-ui.overrides.css = 1682614885464
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 02\Trabalho_02\target\site\apidocs\member-search-index.js = 1682614885342
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 02\Trabalho_02\target\site\apidocs\module-search-index.js = 1682614885326
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 02\Trabalho_02\target\site\apidocs\overview-tree.html = 1682614885280
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 02\Trabalho_02\target\site\apidocs\package-search-index.js = 1682614885336
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 02\Trabalho_02\target\site\apidocs\script.js = 1682614885425
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 02\Trabalho_02\target\site\apidocs\search.js = 1682614885434
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 02\Trabalho_02\target\site\apidocs\stylesheet.css = 1682614885411
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 02\Trabalho_02\target\site\apidocs\tag-search-index.js = 1682614885345
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 02\Trabalho_02\target\site\apidocs\type-search-index.js = 1682614885339
